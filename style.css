@@ -1,0 +1,53 @@
+/* /* body {
+    background-image: url(img/back.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+/* 
+  
+   
+
+  #count {
+    font-size: 80px;
+    color: beige;
+   
+   
+  } */
+
+   h1 {
+    font-size: 70px;
+    justify-content: center;
+    margin-top: 50px;
+  
+   } 
+
+  .btn{
+    font-size: 35px;
+    background: none;
+    border: 3px solid  rgb(44, 151, 137);;
+    border-radius: 8px;
+    margin: 5px;
+    cursor: pointer;
+    color: black;
+    width: 65px;
+  } 
+  .btn1{
+    border: 3px solid  rgb(44, 151, 137);
+    width: 150px;
+    border-radius: 8px;
+    font-size: 35px;
+  }
+  input{
+    width: 295px;
+    height: 30px;
+    font-size: 25px;
+  }
+  .container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 47px;
+    
+  }
